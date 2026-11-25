@@ -5,3 +5,4 @@ My cybersecurity learning log and projects. Computer Science student at Wilfrid 
 ## TryHackMe: Pre-Security
 - [x] [Room 1: Offensive Security Intro](tryhackme/01-offensive-security-intro.md)
 - [ ] Room 2: Defensive Security Intro
+- [ ] [Room 3: Careers in Cyber](tryhackme/03-careers-in-cyber.md)
