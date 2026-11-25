@@ -4,4 +4,4 @@ My cybersecurity learning log and projects. Computer Science student at Wilfrid 
 
 ## Progress
 - TryHackMe: Pre-Security (in progress)
-- [x] Room 1: Offensive Security Intro (
+- [x] Room 1: Offensive Security Intro (tryhackme/01-offensive-security-intro.md)
