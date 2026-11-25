@@ -5,18 +5,21 @@
 **Time spent:** 11 minutes
 
 ## What I learned
-- Defensive security is about being able to identify key alerts and responding to them
-- Stopping the hacker was a three step process: 1- block the hackers connection and IP address,     2-Slow their activity, 3-Turn on protection so a hack like this cannot happen again
-  
-## Tools and commands
-- Defensive Dashboard 
+- Defensive security is about detecting threats, responding to alerts, and preventing attacks from happening again.
+- In the dashboard exercise, stopping the attack took three steps:
+  1. Block the attacker's connection and IP address
+  2. Slow their activity
+  3. Turn on protections so the same attack can't happen again
 
+## Tools and commands
+- Defensive security dashboard (room simulation)
+  
 ## Key terms
-- **Alerts:** Tells the defender what is happening in a security dashboard 
+- **Alert:** a notification in a security dashboard that something suspicious is happening.
 
 ## Questions I still have
-- how are dashboards made?
-- When do attackers deem the right time to strike?
-
+- How are dashboards made? 
+- When do attackers strike?
+- 
 ## Next
-Room 3: Carriers in Cyber 
+Room 3: Careers in Cyber
