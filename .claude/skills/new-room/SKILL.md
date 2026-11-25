@@ -57,8 +57,9 @@ The README has a checklist under the TryHackMe heading, like:
 
 - If the room is already listed, turn its text into a link to the new file and leave the checkbox as it is.
 - If it isn't listed, add `- [ ] [Room N: Name](tryhackme/NN-room-name.md)` at the end of the list.
-- Don't tick boxes or change other lines. Ticking a room off is the user's call. If an earlier room looks finished but is still unticked or unlinked, mention it in your reply and offer to fix it.
+- **Tick off the previous room.** Starting a new room means the user finished the one before it, so change its `- [ ]` to `- [x]`. If that line isn't linked yet, turn it into a link to its file in `tryhackme/` as well.
+- Leave the other lines as they are. If an older room (not the one just before) is still unticked or unlinked, mention it in your reply and offer to fix it rather than changing it yourself.
 
 ## 4. Reply
 
-Keep it short: link the new file, say whether the Link field was filled in or left blank, and mention any README items noted above. Don't commit or push unless asked.
+Keep it short: link the new file, say which room you ticked off, say whether the Link field was filled in or left blank, and mention any README items noted above. Don't commit or push unless asked.
